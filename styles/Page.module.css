@@ -1,0 +1,27 @@
+.today_container {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    align-items: center;
+  }
+
+  .daily_container {
+    border-bottom: 1;
+    border-color: divider;
+    display: flex;
+    width: 100vw;
+    height: 100vw;
+  }
+
+  .hour_container {
+    border-bottom: 1; 
+    border-color: divider
+  }
+
+  .spinner {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
