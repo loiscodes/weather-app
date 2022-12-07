@@ -1,5 +1,7 @@
 
 # Weather App
+This can be viewed: [https://loquacious-meringue-6705f0.netlify.app](https://loquacious-meringue-6705f0.netlify.app)
+
 This weather app was developed using 
 - Next.js with Typescript, 
 - MUI

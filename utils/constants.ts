@@ -1,2 +1,2 @@
 // export const apiKey = ;
-export const accuweatherURL = "http://dataservice.accuweather.com/";
+export const accuweatherURL = "https://dataservice.accuweather.com/";
